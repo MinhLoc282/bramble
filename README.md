@@ -81,10 +81,11 @@ The first persistent run reconciles the existing vector store and creates a mani
 * Scraped and validated **415 Markdown articles**, with zero validation issues.
 * Uploaded **415 files** through the OpenAI API; all completed processing.
 * Tested “How do I add a YouTube video?” in the OpenAI Playground using File Search and article citations.
-* Local and Docker sync tests detected 415 unchanged articles with zero failures.
+* **GitHub Actions run #1:** Bootstrapped the manifest by reconciling the existing vector store.
+* **GitHub Actions run #2:** Fetched 415 articles; 415 skipped, 0 added, 0 updated, 0 deleted, 0 failed.
 
 **Assistant screenshot:** [YouTube answer with citations](docs/optibot-youtube-answer.png)
 
-**Daily job:** [GitHub Actions workflow](https://github.com/MinhLoc282/bramble/actions)
+**Daily job:** [Workflow and run history](https://github.com/MinhLoc282/bramble/actions/workflows/daily-sync.yml) · [Successful run #2 and logs](https://github.com/MinhLoc282/bramble/actions/runs/37937464493) · [Download log artifact](https://github.com/MinhLoc282/bramble/actions/runs/37937464493/artifacts/11618828189)
 
-Open the workflow's latest successful run to view its logs and download the `daily-sync-logs` artifact. The daily schedule runs at 02:00 UTC (09:00 Vietnam time).
+The job is scheduled daily at 02:00 UTC (09:00 Vietnam time). Logs are uploaded as workflow artifacts and retained for 30 days.

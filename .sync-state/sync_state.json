@@ -81,9 +81,9 @@
       "file_id": "file-27EtUAsn8Xrw5uYiz1J1qN"
     },
     "360046859534": {
-      "filename": "how-to-use-twitch-app-360046859534.md",
-      "sha256": "8281ef442ca559c7a44c6fc93a1793afabba7d76dad89973d9af82923e2e90ce",
-      "file_id": "file-28BcGLr7LwzWznF7mgcXgB"
+      "filename": "how-to-use-the-twitch-app-360046859534.md",
+      "sha256": "8d452774b20fefd8849887154d5bdabe84690a475c01e090dc39fd23361e534c",
+      "file_id": "file-YC7mKCVRcCRk8TQBA2pbdJ"
     },
     "360016375153": {
       "filename": "assign-content-to-your-screens-360016375153.md",
@@ -615,11 +615,6 @@
       "sha256": "b5d904cdde717260700887b1174efd31ddf6785ded9214638af4d18baaa8bf64",
       "file_id": "file-Adzma6xjmgXYjCpmE4cgZ6"
     },
-    "18500083191059": {
-      "filename": "how-to-add-captions-to-vimeo-videos-18500083191059.md",
-      "sha256": "f76b3e55de7775c11a422178b59c139eac37a5a92a51034b28b648dcc9370f13",
-      "file_id": "file-AnWALK8CKVhhke1xg74H18"
-    },
     "360051014773": {
       "filename": "show-youtube-video-s-subtitle-closed-caption-360051014773.md",
       "sha256": "2e3a6f7acfea0d6c905b46073e918d63c26709ac4bd53563c821d06bdabd3351",
@@ -706,9 +701,9 @@
       "file_id": "file-C2jwbiF9eBgsr9TjPvDoEK"
     },
     "360037416494": {
-      "filename": "how-to-use-the-jira-formerly-atlassian-jira-app-360037416494.md",
-      "sha256": "3fbdd5ecc8f47bf96f8ca404e9185836a8a562719b6c02559b2ea9ea22165b5a",
-      "file_id": "file-C8QaEUUS5ksHgRkQ2Z7s1z"
+      "filename": "how-to-use-the-jira-app-360037416494.md",
+      "sha256": "548b72119b3b554aae9d9096c4321128fa9e43119579e6b9ab65a279c5cf3b5f",
+      "file_id": "file-BB5pF9gsg97Fi4MRGvELYU"
     },
     "36558834998291": {
       "filename": "tutorial-creating-schedules-and-adding-schedule-items-using-graphql-36558834998291.md",
@@ -1026,9 +1021,9 @@
       "file_id": "file-HpLEve2m4cNVHURjakrWiB"
     },
     "12454101966355": {
-      "filename": "how-to-use-the-musthavemenus-app-with-optisigns-12454101966355.md",
-      "sha256": "09ea895c4a700adbf7fab5b82393687b3c13cb8ebb9e9c866a0244277776f06a",
-      "file_id": "file-HsVkXM4GabhDgoWT5eV9qG"
+      "filename": "how-to-use-the-musthavemenus-app-12454101966355.md",
+      "sha256": "6bb31aa3c2956c36607500afc1acab6fea26de3f0df440ab6445c663e86d52f2",
+      "file_id": "file-BvjwNepU9zbAWg71myJJjc"
     },
     "360042450514": {
       "filename": "how-to-use-world-clock-app-360042450514.md",
@@ -1051,9 +1046,9 @@
       "file_id": "file-J7ZBRty3w83YnDMigdbUMe"
     },
     "5119724468371": {
-      "filename": "how-to-use-notion-app-5119724468371.md",
-      "sha256": "de322a236bbb405bf3d1d4e26e7e7bc1a15ddff6182e566a99a7b839fc508664",
-      "file_id": "file-JFpD1vpvTZz6vV77mZ2ho5"
+      "filename": "how-to-use-the-notion-app-5119724468371.md",
+      "sha256": "40a42be9e32cd3ca18dd1c4f9a9e5f37bfccc31dc99806a815e1b89eeecb24aa",
+      "file_id": "file-J9NPMwiuQNt32JGPXmC87z"
     },
     "4407128433299": {
       "filename": "saml-integration-strategies-best-practices-4407128433299.md",
@@ -1406,9 +1401,9 @@
       "file_id": "file-NzyCfTuqtmyBMRz9DPmV7A"
     },
     "1500002233221": {
-      "filename": "how-to-use-asana-app-1500002233221.md",
-      "sha256": "dbf7cef1c097c9c51a3d9ab5184efba60394ca8ad19a97ba54e82d71ac37f093",
-      "file_id": "file-P1neavWsPPi58Q5QT6Pz5r"
+      "filename": "how-to-use-the-asana-app-1500002233221.md",
+      "sha256": "df4a6d3c8b69c8eb351cf395719b9abf0aeed4c3a97410497573f71e7a234434",
+      "file_id": "file-BuuyCg8VvYgQ828qRU4mT8"
     },
     "15268811715347": {
       "filename": "cannot-find-the-optisigns-app-on-your-samsung-smart-tv-15268811715347.md",
@@ -1517,13 +1512,13 @@
     },
     "360016254994": {
       "filename": "how-to-display-vimeo-videos-with-optisigns-360016254994.md",
-      "sha256": "351101e08f2862135134fd6fcf42953dd16bdc2cef799d863517fa9d6c2af325",
-      "file_id": "file-XNZr7XsEmSea2CCV1DZ6Py"
+      "sha256": "ebdbf6be2cb4a2135891c250d8e96e3af08483db900cb1a96517ddcb53227432",
+      "file_id": "file-X2FLGoAe9mzbPmp7FRkYZL"
     },
     "360050244454": {
-      "filename": "how-to-use-trello-app-360050244454.md",
-      "sha256": "ebe76007c655f960b9cacba37edd4945d55c8c6551600adbafaf2f4aedeae7d8",
-      "file_id": "file-Qdmh47tX77uDob1yU5H5xH"
+      "filename": "how-to-use-the-trello-app-360050244454.md",
+      "sha256": "fd4e6f05786cd276887c96e74d549caf80c7e5cba253e9c7e01c4f7070b05efb",
+      "file_id": "file-TDc8GhvxQyUUohfDekPQLc"
     },
     "1500002047642": {
       "filename": "advanced-how-to-assign-security-for-users-to-only-edit-certain-zones-of-the-screens-1500002047642.md",
@@ -1661,9 +1656,9 @@
       "file_id": "file-SmBXS5E8QbV695n4KPBxLu"
     },
     "6091289267475": {
-      "filename": "how-to-use-matterport-app-6091289267475.md",
-      "sha256": "99fb538835409ba1b4c5c0cdb90bb3c1b1260084f3201f999a9329bda1ab785b",
-      "file_id": "file-Spxif79pW3jrjD6QuoQtKW"
+      "filename": "how-to-use-the-matterport-app-6091289267475.md",
+      "sha256": "31ff9d9a30d8d24de5f964d5ba40faa032ff777691173ef81d7487efe6af9601",
+      "file_id": "file-KEaLLAqfHp8VriPBVAD84i"
     },
     "360016484473": {
       "filename": "why-does-my-screen-show-as-offline-on-the-web-portal-360016484473.md",
@@ -1712,8 +1707,8 @@
     },
     "27463953562899": {
       "filename": "amazon-tv-firestick-troubleshooting-guide-27463953562899.md",
-      "sha256": "976ede19aec515e0ea328e78006ca95f4d268538d62d2d3cd87011658156c5ab",
-      "file_id": "file-TJPrxTqhHf297hUDuXxiL8"
+      "sha256": "968ca1615f55dd85601093826e1bb915a5988e8c7b79a2d2da3c7ecbab1be41d",
+      "file_id": "file-QhE9p61uHbS75zftoFxu1t"
     },
     "360045120133": {
       "filename": "how-to-use-the-wall-street-journal-app-360045120133.md",
